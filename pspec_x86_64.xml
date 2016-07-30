@@ -2,10 +2,11 @@
     <Source>
         <Name>python3-gobject</Name>
         <Packager>
-            <Name>Justin Zobel</Name>
-            <Email>justin@solus-project.com</Email>
+            <Name>Ikey Doherty</Name>
+            <Email>ikey@solus-project.com</Email>
         </Packager>
         <License>GPL-2.0+</License>
+        <PartOf>programming.python</PartOf>
         <Summary xml:lang="en">Python API to GObject Introspection</Summary>
         <Description xml:lang="en">Provides access to GObject Introspection libraries within Python3 applications
 </Description>
@@ -18,7 +19,84 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.5</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_constants.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_constants.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_error.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_error.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_option.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_option.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_propertyhelper.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_propertyhelper.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_signalhelper.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_signalhelper.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/docstring.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/docstring.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/importer.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/importer.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/module.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/module.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/pygtkcompat.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/pygtkcompat.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/types.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/types.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_constants.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_error.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gi.cpython-35m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gi_cairo.cpython-35m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gobject/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gobject/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gobject/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_option.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_propertyhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_signalhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/docstring.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/importer.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/module.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GIMarshallingTests.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GLib.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GObject.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gdk.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gio.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gtk.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Pango.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GLib.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GLib.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GObject.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GObject.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gdk.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gdk.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gio.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gio.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gtk.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gtk.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Pango.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Pango.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/keysyms.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/keysyms.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/keysyms.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/pygtkcompat.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/types.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygobject-3.20.1-py3.5-linux-x86_64.egg-info</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-35.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/generictreemodel.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/pygtkcompat.py</Path>
         </Files>
     </Package>
     <Package>
@@ -28,20 +106,20 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="current">python3-gobject</Dependency>
+            <Dependency release="7">python3-gobject</Dependency>
         </RuntimeDependencies>
         <Files>
-            <Path fileType="header">/usr/include</Path>
-            <Path fileType="data">/usr/lib64/pkgconfig</Path>
+            <Path fileType="header">/usr/include/</Path>
+            <Path fileType="data">/usr/lib64/pkgconfig/*.pc</Path>
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2016-02-02</Date>
-            <Version>3.18.2</Version>
+        <Update release="7">
+            <Date>2016-07-30</Date>
+            <Version>3.20.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Justin Zobel</Name>
-            <Email>justin@solus-project.com</Email>
+            <Name>Ikey Doherty</Name>
+            <Email>ikey@solus-project.com</Email>
         </Update>
     </History>
 </PISI>

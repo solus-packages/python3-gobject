@@ -1,14 +1,14 @@
-name        : python3-gobject
-version     : 3.18.2
-release     : 6
+name       : python3-gobject
+version    : 3.20.1
+release    : 7
 source     :
-    - http://ftp.acc.umu.se/pub/gnome/sources/pygobject/3.18/pygobject-3.18.2.tar.xz : 2a3cad1517916b74e131e6002c3824361aee0671ffb0d55ded119477fc1c2c5f
-license     : GPL-2.0+
-summary     : Python API to GObject Introspection
-builddeps   :
+    - http://ftp.acc.umu.se/pub/gnome/sources/pygobject/3.20/pygobject-3.20.1.tar.xz : 3d261005d6fed6a92ac4c25f283792552f7dad865d1b7e0c03c2b84c04dbd745
+license    : GPL-2.0+
+summary    : Python API to GObject Introspection
+builddeps  :
     - pkgconfig(python-3.5)
     - pkgconfig(py3cairo)
-description : |
+description: |
     Provides access to GObject Introspection libraries within Python3 applications
 setup      : |
     %configure --disable-static --with-python=/usr/bin/python3
