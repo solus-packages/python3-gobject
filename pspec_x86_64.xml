@@ -19,81 +19,81 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_constants.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_constants.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_error.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_error.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_option.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_option.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_propertyhelper.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_propertyhelper.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_signalhelper.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/_signalhelper.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/docstring.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/docstring.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/importer.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/importer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/module.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/module.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/pygtkcompat.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/pygtkcompat.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/types.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/__pycache__/types.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_constants.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_error.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gi.cpython-35m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_gi_cairo.cpython-35m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_option.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_propertyhelper.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/_signalhelper.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/docstring.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/importer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/module.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GIMarshallingTests.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GLib.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/GObject.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gdk.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gio.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Gtk.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/Pango.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GLib.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GLib.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GObject.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/GObject.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gdk.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gdk.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gio.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gio.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gtk.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Gtk.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Pango.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/Pango.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/keysyms.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/__pycache__/keysyms.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/overrides/keysyms.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/pygtkcompat.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/repository/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/gi/types.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygobject-3.26.1-py3.5.egg-info</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/__init__.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-35.opt-1.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/generictreemodel.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/pygtkcompat/pygtkcompat.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_constants.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_constants.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_error.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_error.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_option.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_option.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_propertyhelper.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_propertyhelper.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_signalhelper.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/_signalhelper.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/docstring.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/docstring.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/importer.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/importer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/module.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/module.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/pygtkcompat.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/pygtkcompat.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/types.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__pycache__/types.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_constants.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_error.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_gi.cpython-36m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_gi_cairo.cpython-36m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_option.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_propertyhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_signalhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/docstring.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/importer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/module.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GIMarshallingTests.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GLib.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GObject.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gdk.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gio.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gtk.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Pango.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GIMarshallingTests.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GLib.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GLib.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GObject.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/GObject.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gdk.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gdk.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gio.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gio.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gtk.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Gtk.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Pango.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/Pango.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/keysyms.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__pycache__/keysyms.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/keysyms.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/pygtkcompat.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/repository/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/repository/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/repository/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/types.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygobject-3.26.1-py3.6.egg-info</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/__init__.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/generictreemodel.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-36.opt-1.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__pycache__/pygtkcompat.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/generictreemodel.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/pygtkcompat.py</Path>
         </Files>
     </Package>
     <Package>
@@ -103,7 +103,7 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="11">python3-gobject</Dependency>
+            <Dependency release="12">python3-gobject</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="header">/usr/include/</Path>
@@ -111,8 +111,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="11">
-            <Date>2017-11-11</Date>
+        <Update release="12">
+            <Date>2018-01-31</Date>
             <Version>3.26.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Pierre-Yves</Name>

@@ -1,6 +1,6 @@
 name       : python3-gobject
 version    : 3.26.1
-release    : 11
+release    : 12
 source     :
     - https://download.gnome.org/sources/pygobject/3.26/pygobject-3.26.1.tar.xz : f5577b9b9c70cabb9a60d81b855d488b767c66f867432e7fb64aa7269b04d1a9
 license    : GPL-2.0
@@ -9,7 +9,7 @@ summary    : Python API to GObject Introspection
 description: |
     Provides access to GObject Introspection libraries within Python3 applications
 builddeps  :
-    - pkgconfig(python-3.5)
+    - pkgconfig(python3)
     - pkgconfig(py3cairo)
 setup      : |
     %configure --disable-static --with-python=/usr/bin/python3
