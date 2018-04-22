@@ -1,9 +1,9 @@
 name       : python3-gobject
-version    : 3.26.1
-release    : 13
+version    : 3.28.2
+release    : 14
 source     :
-    - https://download.gnome.org/sources/pygobject/3.26/pygobject-3.26.1.tar.xz : f5577b9b9c70cabb9a60d81b855d488b767c66f867432e7fb64aa7269b04d1a9
-license    : GPL-2.0
+    - https://download.gnome.org/sources/pygobject/3.28/pygobject-3.28.2.tar.xz : ac443afd14fcb9ff5744b65d6e2b380e70510278404fb8684a9b9fb089e6f2ca
+license    : GPL-2.0-only
 component  : programming.python
 summary    : Python API to GObject Introspection
 description: |
