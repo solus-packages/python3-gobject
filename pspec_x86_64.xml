@@ -2,8 +2,8 @@
     <Source>
         <Name>python3-gobject</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-2.0-only</License>
         <PartOf>programming.python</PartOf>
@@ -19,37 +19,37 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/PyGObject-3.34.0.egg-info</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_compat.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_constants.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_error.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_gi.cpython-36m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_gi_cairo.cpython-36m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_gtktemplate.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_option.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_ossighelper.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_propertyhelper.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/_signalhelper.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/docstring.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/importer.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/module.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GIMarshallingTests.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GLib.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GObject.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gdk.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/GdkPixbuf.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gio.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Gtk.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/Pango.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/overrides/keysyms.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/pygtkcompat.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/repository/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/gi/types.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/generictreemodel.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/pygtkcompat/pygtkcompat.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/PyGObject-3.34.0.egg-info</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_constants.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_error.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_gi.cpython-37m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_gi_cairo.cpython-37m-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_gtktemplate.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_option.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_ossighelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_propertyhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/_signalhelper.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/docstring.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/importer.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/module.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/GIMarshallingTests.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/GLib.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/GObject.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/Gdk.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/GdkPixbuf.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/Gio.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/Gtk.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/Pango.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/overrides/keysyms.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/pygtkcompat.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/repository/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/gi/types.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pygtkcompat/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pygtkcompat/generictreemodel.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/pygtkcompat/pygtkcompat.py</Path>
         </Files>
     </Package>
     <Package>
@@ -59,7 +59,7 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="17">python3-gobject</Dependency>
+            <Dependency release="18">python3-gobject</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="header">/usr/include/pygobject-3.0/pygobject.h</Path>
@@ -67,12 +67,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="17">
-            <Date>2019-09-18</Date>
+        <Update release="18">
+            <Date>2020-01-26</Date>
             <Version>3.34.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

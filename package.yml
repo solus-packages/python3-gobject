@@ -1,6 +1,6 @@
 name       : python3-gobject
 version    : 3.34.0
-release    : 17
+release    : 18
 source     :
     - https://download.gnome.org/sources/pygobject/3.34/pygobject-3.34.0.tar.xz : 87e2c9aa785f352ef111dcc5f63df9b85cf6e05e52ff04f803ffbebdacf5271a
 license    : GPL-2.0-only
